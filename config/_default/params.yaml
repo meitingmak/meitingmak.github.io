@@ -15,7 +15,7 @@ hugoblox:
     # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "Mei Ting (Martha) Mak"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: "test organisation hahaha"
+    organization: "Mei Ting (Martha) Mak"
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
@@ -116,7 +116,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} {name}. " # This work is licensed under {license}
     license:
       type: cc                          # cc | all_rights | custom
       allow_derivatives: false
