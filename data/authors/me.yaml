@@ -45,8 +45,8 @@ interests:
 education:
   - degree: PhD Physics
     institution: University of Exeter
-    start: 2021-09
-    end: 2025-05
+    start: 2021-09-01
+    end: 2025-05-01
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
@@ -55,8 +55,8 @@ education:
       icon: hero/arrow-down-tray
   - degree: MPhys Physics
     institution: University of Exeter
-    start: 2017-09
-    end: 2021-06
+    start: 2017-09-01
+    end: 2021-06-01
   #- degree: BS Computer Science
   #  institution: MIT
   #  start: 2009-09-01
