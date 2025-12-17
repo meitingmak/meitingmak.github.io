@@ -27,8 +27,8 @@ links:
     label: E-mail Me
   #- icon: brands/x
   #  url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
+  #- icon: brands/github
+  #  url: https://github.com/example
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mei-ting-mak-92246a189/?originalSubdomain=uk
   - icon: academicons/google-scholar
@@ -49,7 +49,7 @@ education:
     start: 2021-09-01
     end: 2025-05-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      I led the development and application of multiple haze parameterisations within a 3D General Circulation Model, the UK Met Office Unified Model, to study how hazes would impact the habitability of our Early Earth and TRAPPIST-1e, and how hazes change the transmission spectra of differnt hot-Jupiters.
     button:
       text: Download dissertation
       url: /resume.pdf
@@ -71,7 +71,7 @@ experience:
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
     button:
       text: View portfolio
-      url: /
+      url: https://ore.exeter.ac.uk/articles/thesis/Advancing_the_Theory_of_Haze_in_Exoplanetary_Atmospheres/29814032
       icon: hero/arrow-down-tray
   - role: AI Research Intern
     org: OpenAI
@@ -102,9 +102,12 @@ languages:
   - name: English
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+  - name: Mandarin
+    level: 5
+    label: Native
+  - name: Cantonese
+    level: 5
+    label: Native
 
 awards:
   - title: Best Paper Award
