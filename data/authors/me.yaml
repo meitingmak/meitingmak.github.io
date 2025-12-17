@@ -11,8 +11,8 @@ name:
 postnominals:
   - PhD
   #- MIEEE
-status:
-  icon: "☕️"
+#status:
+#  icon: "☕️"
 role: Croucher Fellow
 bio: |
   Martha is a Croucher Fellow at the Atmospheric, Oceanic and Planetary Physics sub-department at the University of Oxford. Her main research lies in the study of aerosols, photochemical haze in particular, in the atmosphere of hot gas giant and rocky planets outside of the Solar System.
