@@ -30,17 +30,18 @@ links:
   - icon: brands/github
     url: https://github.com/example
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/mei-ting-mak-92246a189/?originalSubdomain=uk
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=KVZE3doAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-1624-3360
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - 3D General Circulation Models
+  - Exoplanets
+  - Atmospheric dynamics
+  - Clouds and Hazes
+  - Habitability
 
 education:
   - degree: PhD Physics
