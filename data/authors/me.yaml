@@ -68,21 +68,21 @@ education:
   #  end: 2013-05-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Croucher Fellow
+    org: University of Oxford
+    start: 2025-09-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: https://ore.exeter.ac.uk/articles/thesis/Advancing_the_Theory_of_Haze_in_Exoplanetary_Atmospheres/29814032
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      I will lead the development of a holistic 3D haze model to better understand observational data.
+    #button:
+    #  text: View portfolio
+    #  url: https://ore.exeter.ac.uk/articles/thesis/Advancing_the_Theory_of_Haze_in_Exoplanetary_Atmospheres/29814032
+    #  icon: hero/arrow-down-tray
+  - role: Postdoctoral Research Fellow
+    org: University of Exeter
+    start: 2025-04-01
+    end: 2025-8-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      I worked on developing a simple model on predicting limb asymmetry caused by haze.
 
 skills:
   - name: Technical Skills
