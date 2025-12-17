@@ -52,7 +52,7 @@ education:
       I led the development and application of multiple haze parameterisations within a 3D General Circulation Model, the UK Met Office Unified Model, to study how hazes would impact the habitability of our Early Earth and TRAPPIST-1e, and how hazes change the transmission spectra of differnt hot-Jupiters.
     button:
       text: Download dissertation
-      url: /resume.pdf
+      url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KVZE3doAAAAJ&citation_for_view=KVZE3doAAAAJ:9yKSN-GCB0IC
       icon: hero/arrow-down-tray
   - degree: MPhys Physics
     institution: University of Exeter
