@@ -46,9 +46,10 @@ interests:
 education:
   - degree: PhD Physics
     institution: University of Exeter
-    start: 2021-09-01
-    end: 2025-05-01
+    start: 2021-09-21
+    end: 2025-05-27
     summary: |
+      Dissertation title: "Advancing the Theory of Haze in Exoplanetary Atmospheres"
       I led the development and application of multiple haze parameterisations within a 3D General Circulation Model, the UK Met Office Unified Model, to study how hazes would impact the habitability of our Early Earth and TRAPPIST-1e, and how hazes change the transmission spectra of differnt hot-Jupiters.
     button:
       text: Download dissertation
@@ -56,8 +57,11 @@ education:
       icon: hero/arrow-down-tray
   - degree: MPhys Physics
     institution: University of Exeter
-    start: 2017-09-01
-    end: 2021-06-01
+    start: 2017-09-27
+    end: 2021-06-28
+    summary: |
+      Title: "The Dynamics of Discs Around Binary and Multiple Stellar Systems”
+      I used the parallel smoothed particle hydrodynamic code–sphNG to model the disc dynamics around the triple star system–GW Orionis.
   #- degree: BS Computer Science
   #  institution: MIT
   #  start: 2009-09-01
