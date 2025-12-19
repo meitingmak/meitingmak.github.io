@@ -41,9 +41,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My main interest lies in understanding how photochemical hazes can impact the atmospheric structure among different types of planets, and how these effects, in turn, shape their habitability and observability. Currently, I am investigating how atmospheric transport processes lead to asymmetrical haze distributions across a planet’s atmosphere, and how these variations can be detected with state-of-the-art telescopes such as the James Webb Space Telescope. 
 
         Please reach out to collaborate 😃
     design:
