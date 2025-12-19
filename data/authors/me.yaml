@@ -114,8 +114,8 @@ languages:
     label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Croucher Fellowship for Postdoctoral Research
+    awarder: Croucher Foundation
+    date: "2025-02-14"
+    #summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
