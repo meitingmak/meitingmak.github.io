@@ -84,35 +84,6 @@ experience:
     summary: |
       I worked on developing a simple model on predicting limb asymmetry caused by haze.
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Fortran
-        level: 5
-      - label: Python
-        level: 5
-      - label: C
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 5
-#      - label: Grant Proposals
-#        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Mandarin
-    level: 5
-    label: Native
-  - name: Cantonese
-    level: 5
-    label: Native
-
 awards:
   - title: Croucher Fellowship for Postdoctoral Research
     awarder: Croucher Foundation
@@ -154,3 +125,32 @@ awards:
     date: "2018-09-17"
     summary: In recognition of my outstanding achievement in all stages of my program of study.
     icon: hero/trophy
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Fortran
+        level: 5
+      - label: Python
+        level: 5
+      - label: C
+        level: 4
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Conference Presentations
+        level: 5
+#      - label: Grant Proposals
+#        level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Native
+  - name: Mandarin
+    level: 5
+    label: Native
+  - name: Cantonese
+    level: 5
+    label: Native
