@@ -84,21 +84,21 @@ experience:
     summary: |
       I worked on developing a simple model on predicting limb asymmetry caused by haze.
 
-#skills:
-#  - name: Technical Skills
-#    items:
-#      - label: Python
-#        level: 5
-#      - label: Machine Learning
-#        level: 5
-#      - label: Cloud Computing
-#        level: 4
-#  - name: Research & Communication
-#    items:
-#      - label: Academic Writing
-#        level: 5
-#      - label: Conference Presentations
-#        level: 4
+skills:
+  - name: Technical Skills
+    items:
+      - label: Fortran
+        level: 5
+      - label: Python
+        level: 5
+      - label: C
+        level: 4
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Conference Presentations
+        level: 5
 #      - label: Grant Proposals
 #        level: 4
 
@@ -118,4 +118,39 @@ awards:
     awarder: Croucher Foundation
     date: "2025-02-14"
     #summary: Awarded for groundbreaking work on efficient training of large models.
+    icon: hero/trophy
+- title: Bell Burnell Graduate Scholarship Fund 
+    awarder: Institute of Physics
+    date: "2021-09-27"
+    #summary: Awarded for groundbreaking work on efficient training of large models.
+    icon: hero/trophy
+  - title: Physics Prize
+    awarder: University of Exeter
+    date: "2021-09-17"
+    summary: In recognition of my academic achievement, which placed me in the top three Physics students in the 4th year of my MPhys degree.
+    icon: hero/trophy
+  - title: Deans Commendation for Exceptional Performance 
+    awarder: University of Exeter
+    date: "2021-09-17"
+    summary: In recognition of my outstanding achievement in all stages of my program of study.
+    icon: hero/trophy
+  - title: Physics Prize
+    awarder: University of Exeter
+    date: "2020-09-16"
+    summary: In recognition of my academic achievement, which placed me in the top three Physics students in the 3rd year of my MPhys degree.
+    icon: hero/trophy
+  - title: Deans Commendation for Exceptional Performance 
+    awarder: University of Exeter
+    date: "2020-09-16"
+    summary: In recognition of my outstanding achievement in all stages of my program of study.
+    icon: hero/trophy
+  - title: Deans Commendation for Exceptional Performance 
+    awarder: University of Exeter
+    date: "2019-09-15"
+    summary: In recognition of my outstanding achievement in all stages of my program of study.
+    icon: hero/trophy
+  - title: Deans Commendation for Exceptional Performance 
+    awarder: University of Exeter
+    date: "2018-09-17"
+    summary: In recognition of my outstanding achievement in all stages of my program of study.
     icon: hero/trophy
