@@ -82,9 +82,9 @@ sections:
     content:
       title: 'Recent News'
       subtitle: ''
-      text: |-
-        Croucher news
+      text: ''
       button:
+        text: News about my appointment as a Croucher Fellow at the University of Oxford.
         url: https://croucher.org.hk/en/fellows-and-scholars/martha-mak
     design:
       columns: '1'
