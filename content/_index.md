@@ -83,9 +83,14 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
-        <a class="btn btn-primary" href="https://croucher.org.hk/en/fellows-and-scholars/martha-mak" target="_blank">
-          News about my appointment as a Croucher Fellow at the University of Oxford
-        </a>
+        <div style="display:flex; gap:1.2rem; align-items:center; padding:1.5rem; background:#f9fafb; border-radius:12px;">
+          <img src="/path/to/icon.png" width="60" alt="News icon" style="border-radius:8px;">
+          <div>
+            <h3 style="margin:0;">Croucher Fellowship Awarded 🎓</h3>
+            <p style="margin:0.3rem 0 1rem 0;">I am excited to share that I have been named a Croucher Fellow at Oxford.</p>
+            <a class="btn btn-primary" href="https://croucher.org.hk/en/fellows-and-scholars/martha-mak" target="_blank">Read More</a>
+          </div>
+        </div>
     design:
       columns: '1'
   #- block: collection
