@@ -41,9 +41,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My main interest lies in understanding how photochemical hazes can impact the atmospheric structure among different types of planets, and how these effects, in turn, shape their habitability and observability. Currently, I am investigating how atmospheric transport processes lead to asymmetrical haze distributions across a planet’s atmosphere, and how these variations can be detected with state-of-the-art telescopes such as the James Webb Space Telescope. 
-
-        Please reach out to collaborate 😃
+        This is the Croucher news
+      button:
+        url: https://croucher.org.hk/en/fellows-and-scholars/martha-mak
     design:
       columns: '1'
   #- block: collection
@@ -77,6 +77,16 @@ sections:
   #        - events
   #  design:
   #    view: card
+  - block: markdown
+    content:
+      title: 'Recent News'
+      subtitle: ''
+      text: |-
+        My main interest lies in understanding how photochemical hazes can impact the atmospheric structure among different types of planets, and how these effects, in turn, shape their habitability and observability. Currently, I am investigating how atmospheric transport processes lead to asymmetrical haze distributions across a planet’s atmosphere, and how these variations can be detected with state-of-the-art telescopes such as the James Webb Space Telescope. 
+
+        Please reach out to collaborate 😃
+    design:
+      columns: '1'
   #- block: collection
   #  id: news
   #  content:
