@@ -77,22 +77,32 @@ sections:
   #        - events
   #  design:
   #    view: card
-  - block: markdown
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: |-
-        <div style="display:flex; gap:1.2rem; align-items:center; padding:1.5rem; background:#f9fafb; border-radius:12px;">
-          <img src="/path/to/icon.png" width="60" alt="News icon" style="border-radius:8px;">
-          <div>
-            <h3 style="margin:0;">Croucher Fellowship Awarded 🎓</h3>
-            <p style="margin:0.3rem 0 1rem 0;">I am excited to share that I have been named a Croucher Fellow at Oxford.</p>
-            <a class="btn btn-primary" href="https://croucher.org.hk/en/fellows-and-scholars/martha-mak" target="_blank">Read More</a>
-          </div>
-        </div>
-    design:
-      columns: '1'
+  #- block: markdown
+  #  id: news
+  #  content:
+  #    title: Recent News
+  #    subtitle: ''
+  #    text: |-
+  #        📣 <strong>Recent News:</strong>  
+  #      <p style="font-size:1.2rem;">
+  #        <a href="https://croucher.org.hk/en/fellows-and-scholars/martha-mak" target="_blank" style="border-bottom:2px solid currentColor;">
+  #        I have been awarded a Croucher Fellowship at Oxford →
+  #        </a>
+  #      </p>
+
+  #  design:
+  #    columns: '1'
+- block: cta-card
+  content:
+    title: Croucher Fellowship Awarded 🎉
+    text: |
+      I am delighted to share that I have been appointed a Croucher Fellow at the University of Oxford.
+    button:
+      text: Read the Announcement
+      url: https://croucher.org.hk/en/fellows-and-scholars/martha-mak
+  design:
+    card:
+      css_class: 'bg-primary-200 dark:bg-primary-800'
   #- block: collection
   #  id: news
   #  content:
