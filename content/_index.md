@@ -101,9 +101,19 @@ sections:
         I am delighted to share that I have been appointed a Croucher Fellow at the University of Oxford.
     
         <div style="margin-top:1rem;">
-          <a class="btn btn-primary" href="https://croucher.org.hk/en/news/welcome-croucher-class-of-2025" target="_blank">Read Announcement</a>
-    
-          <a class="btn btn-primary" href="https://croucher.org.hk/en/fellows-and-scholars/martha-mak" target="_blank" style="margin-    left:0.5rem;">My Profile</a>
+          <a class="btn btn-primary"
+             style="display:block; margin-bottom:0.75rem; text-decoration: underline;"
+             href="https://croucher.org.hk/en/news/welcome-croucher-class-of-2025"
+             target="_blank">
+             Click here to read the announcement!
+           </a>
+
+           <a class="btn btn-primary"
+              style="display:block; text-decoration: underline;"
+              href="https://croucher.org.hk/en/fellows-and-scholars/martha-mak"
+              target="_blank">
+              Clich here to read my Croucher Fellow profile!
+           </a>
         </div>
 
     design:
