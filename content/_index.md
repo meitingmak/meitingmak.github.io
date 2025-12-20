@@ -77,7 +77,7 @@ sections:
   #        - events
   #  design:
   #    view: card
-  - block: collection
+  - block: markdown
     id: news
     content:
       title: Recent News
