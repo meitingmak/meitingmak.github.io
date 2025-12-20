@@ -98,7 +98,7 @@ sections:
     content:
       title: "Croucher Fellowship Awarded 🎉"
       text: |
-        I am delighted to share that I have been appointed a Croucher Fellow at the University of Oxford.
+        I am delighted to share that I have been appointed a Croucher Fellow by the Croucher Foundation to conduct postdoctoral research at the University of Oxford.
     
         <div style="margin-top:1rem;">
           <a class="btn btn-primary"
@@ -115,7 +115,6 @@ sections:
               Clich here to read my Croucher Fellow profile!
            </a>
         </div>
-
     design:
       card:
         css_class: "bg-primary-200 dark:bg-primary-800"
@@ -123,12 +122,23 @@ sections:
     content:
       title: "Bell Burnell Graduate Scholarship Award 🎓"
       text: |
-        I am honoured to have been awarded the Bell Burnell Graduate Scholarship, supporting my research and academic development.
-      buttons:
-        - text: "Read Announcement"
-          url: "https://news-archive.exeter.ac.uk/homepage/title_860428_en.html"
-        - text: "Read Interview"
-          url: "https://www.iop.org/about/support-grants/bell-burnell-fund/2021-awardees/mei-ting-mak"
+        I am honoured to have been awarded the Bell Burnell Graduate Scholarship by the Institute of Physics, supporting my research and academic development.
+
+        <div style="margin-top:1rem;">
+          <a class="btn btn-primary"
+             style="display:block; margin-bottom:0.75rem; text-decoration: underline;"
+             href="https://news-archive.exeter.ac.uk/homepage/title_860428_en.html"
+             target="_blank">
+             Click here to read the announcement!
+           </a>
+
+           <a class="btn btn-primary"
+              style="display:block; text-decoration: underline;"
+              href="https://www.iop.org/about/support-grants/bell-burnell-fund/2021-awardees/mei-ting-mak"
+              target="_blank">
+              Clich here to read my interview!
+           </a>
+        </div>
     design:
       card:
         css_class: "bg-primary-200 dark:bg-primary-800"
