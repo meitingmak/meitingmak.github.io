@@ -138,6 +138,13 @@ sections:
               target="_blank">
               Clich here to read my interview!
            </a>
+    
+           <a class="btn btn-primary"
+              style="display:block; text-decoration: underline;"
+              href="https://www.youtube.com/watch?v=N0bJpAnBX4k"
+              target="_blank">
+              Clich here to watch the awardees, including me, and Dame Jocelyn Bell Burnell share the impact the scholarship fund is making!
+           </a>
         </div>
     design:
       card:
