@@ -19,9 +19,9 @@ main:
   - name: Academic Career
     url: experience/
     weight: 20
- # - name: Projects
- #   url: projects/
- #   weight: 30
+  - name: Academic Service
+    url: service/
+    weight: 30
  # - name: Courses
  #   url: courses/
  #   weight: 40
