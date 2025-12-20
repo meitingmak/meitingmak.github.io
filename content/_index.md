@@ -103,6 +103,21 @@ sections:
     design:
       card:
         css_class: 'bg-primary-200 dark:bg-primary-800'
+  - block: cta-card
+    content:
+      title: ""
+      text: |
+        <div style="max-width: 480px; margin: 0 auto;">
+          <h3>Croucher Fellowship Awarded 🎉</h3>
+          I am delighted to share that I have been appointed a Croucher Fellow at the University of Oxford.
+        </div>
+      button:
+        text: "Read the Announcement"
+        url: "https://croucher.org.hk/en/news/welcome-croucher-class-of-2025"
+    design:
+      card:
+        css_class: "bg-primary-200 dark:bg-primary-800"
+
   #- block: collection
   #  id: news
   #  content:
