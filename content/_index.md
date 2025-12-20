@@ -96,7 +96,7 @@ sections:
   - block: cta-card
     id: news
     content:
-      title: "Croucher Fellowship Awarded 🎉"
+      title: "Croucher Fellowship"
       text: |
         I am delighted to share that I have been appointed a Croucher Fellow by the Croucher Foundation to conduct postdoctoral research at the University of Oxford.
     
@@ -120,9 +120,9 @@ sections:
         css_class: "bg-primary-200 dark:bg-primary-800"
   - block: cta-card
     content:
-      title: "Bell Burnell Graduate Scholarship Award 🎓"
+      title: "Bell Burnell Graduate Scholarship Fund"
       text: |
-        I am honoured to have been awarded the Bell Burnell Graduate Scholarship by the Institute of Physics, supporting my research and academic development.
+        I am honoured to have been awarded the Bell Burnell Graduate Scholarship Fund by the Institute of Physics, supporting my research and academic development.
 
         <div style="margin-top:1rem;">
           <a class="btn btn-primary"
