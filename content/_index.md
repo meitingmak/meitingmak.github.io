@@ -92,31 +92,23 @@ sections:
  
   #  design:
   #    columns: '1'
+
   - block: cta-card
+    id: news
     content:
-      title: Croucher Fellowship Awarded 🎉
+      title: "Croucher Fellowship Awarded 🎉"
       text: |
         I am delighted to share that I have been appointed a Croucher Fellow at the University of Oxford.
-      button:
-        text: Read the Announcement
-        url: https://croucher.org.hk/en/fellows-and-scholars/martha-mak
-    design:
-      card:
-        css_class: 'bg-primary-200 dark:bg-primary-800'
-  - block: cta-card
-    content:
-      title: ""
-      text: |
-        <div style="max-width: 480px; margin: 0 auto;">
-          <h3>Croucher Fellowship Awarded 🎉</h3>
-          I am delighted to share that I have been appointed a Croucher Fellow at the University of Oxford.
-        </div>
-      button:
-        text: "Read the Announcement"
-        url: "https://croucher.org.hk/en/news/welcome-croucher-class-of-2025"
+      buttons:
+        - text: "Read Announcement"
+          url: "https://croucher.org.hk/en/news/welcome-croucher-class-of-2025"
+        - text: "My Profile"
+          url: "https://croucher.org.hk/en/fellows-and-scholars/martha-mak"
     design:
       card:
         css_class: "bg-primary-200 dark:bg-primary-800"
+
+
 
   #- block: collection
   #  id: news
