@@ -82,10 +82,10 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: ''
-      button:
-        text: News about my appointment as a Croucher Fellow at the University of Oxford.
-        url: https://croucher.org.hk/en/fellows-and-scholars/martha-mak
+      text: |-
+        <a class="btn btn-primary" href="https://croucher.org.hk/en/fellows-and-scholars/martha-mak" target="_blank">
+          News about my appointment as a Croucher Fellow at the University of Oxford
+        </a>
     design:
       columns: '1'
   #- block: collection
