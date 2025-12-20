@@ -99,11 +99,25 @@ sections:
       title: "Croucher Fellowship Awarded 🎉"
       text: |
         I am delighted to share that I have been appointed a Croucher Fellow at the University of Oxford.
+    
+        <div style="margin-top:1rem;">
+          <a class="btn btn-primary" href="https://croucher.org.hk/en/news/welcome-croucher-class-of-2025" target="_blank">Read Announcement</a>
+          <a class="btn btn-primary" href="https://croucher.org.hk/en/fellows-and-scholars/martha-mak" target="_blank" style="margin-    left:0.5rem;">My Profile</a>
+        </div>
+
+    design:
+      card:
+        css_class: "bg-primary-200 dark:bg-primary-800"
+  - block: cta-card
+    content:
+      title: "Bell Burnell Graduate Scholarship Award 🎓"
+      text: |
+        I am honoured to have been awarded the Bell Burnell Graduate Scholarship, supporting my research and academic development.
       buttons:
         - text: "Read Announcement"
-          url: "https://croucher.org.hk/en/news/welcome-croucher-class-of-2025"
-        - text: "My Profile"
-          url: "https://croucher.org.hk/en/fellows-and-scholars/martha-mak"
+          url: "https://news-archive.exeter.ac.uk/homepage/title_860428_en.html"
+        - text: "Read Interview"
+          url: "https://www.iop.org/about/support-grants/bell-burnell-fund/2021-awardees/mei-ting-mak"
     design:
       card:
         css_class: "bg-primary-200 dark:bg-primary-800"
