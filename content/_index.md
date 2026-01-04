@@ -69,7 +69,7 @@ sections:
   #  design:
   #    view: citation
   - block: markdown
-    id: recent-publications
+    id: papers
     content:
       title: Recent Publications
       text: |-
