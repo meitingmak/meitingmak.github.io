@@ -73,19 +73,19 @@ sections:
     content:
       title: First-author Publications
       text: |-
-        - **Mak, M. T.**, Komacek, T., Mayne, N.
+        - **Mak, M. T.**, Komacek, T., Mayne, N.<br>
         *Predicting The Distribution of Photochemical Hazes Across The Two Limbs of hot-Jupiters*  
         [in prep.]
 
-        - **Mak, M. T.**, Sergeev, D., Mayne, N., Manners, J., Zamyatina, M., Steinrueck, M., et al.
+        - **Mak, M. T.**, Sergeev, D., Mayne, N., Manners, J., Zamyatina, M., Steinrueck, M., et al.<br>
         *3D simulations of TRAPPIST-1e with varying CO2, CH4, and haze profiles*  
         [Monthly Notices of the Royal Astronomical Society, Volume 542, Issue 3, pp.1873–1900 (2025)](https://academic.oup.com/mnras/article/542/3/1873/8217259?login=true)
 
-        - **Mak, M. T.**, Sergeev, D., Mayne, N., Banks, N., Eager-Nash, J., Manners, J., Arney, G., et al.
+        - **Mak, M. T.**, Sergeev, D., Mayne, N., Banks, N., Eager-Nash, J., Manners, J., Arney, G., et al.<br>
         *3D simulations of TRAPPIST-1e with varying CO2, CH4, and haze profiles*  
         [Monthly Notices of the Royal Astronomical Society, Volume 530, Issue 3, pp.2933-2933 (2024)](https://academic.oup.com/mnras/article/529/4/3971/7633970?login=true)
     
-        - **Mak, M. T.**, Mayne, N., Sergeev, D., Eager-Nash, J., Manners, J., Hebrard E., Kohary, K. 
+        - **Mak, M. T.**, Mayne, N., Sergeev, D., Eager-Nash, J., Manners, J., Hebrard E., Kohary, K.<br>
         *3D Simulations of the Archean Earth Including Photochemical Haze Profiles*  
         [Journal of Geophysical Research: Atmospheres, Volume 128, Issue 20 (2023)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039343)
     design:
@@ -94,15 +94,15 @@ sections:
     content:
       title: Co-author Publications
       text: |-
-        - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**<br>    
+        - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**<br>
         *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*    
         [EGUsphere in review]
 
-        - Mukherjee, S., Sings, D., Fu, G., et al., **incl. Mak, M. T.**<br>    
+        - Mukherjee, S., Sings, D., Fu, G., et al., **incl. Mak, M. T.**<br>
         *Cloudy mornings and clear evenings on a giant extrasolar world*    
         [accepted in Science]
 
-        - Li, H., Wang, X., Dong, C., et al., **incl. Mak, M. T.**<br>        
+        - Li, H., Wang, X., Dong, C., et al., **incl. Mak, M. T.**<br>
         *Modeling Atmospheric Ion Escape from Kepler-1649 b and c over Time*          
         [The Astrophysical Journal Letters, Volume 994, Number 2, L50 (2025)](https://iopscience.iop.org/article/10.3847/2041-8213/ae1a65)
 
