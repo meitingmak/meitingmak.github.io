@@ -90,6 +90,31 @@ sections:
         [Journal of Geophysical Research: Atmospheres, Volume 128, Issue 20 (2023)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039343)
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: Co-author Publications
+      text: |-
+        - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**
+        *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*  
+        [EGUsphere in review]
+
+        - Mukherjee, S., Sings, D., Fu, G., et al., **incl. Mak, M. T.**
+        *Cloudy mornings and clear evenings on a giant extrasolar world*  
+        [accepted in Science]
+
+        - Li, H., Wang, X., Dong, C., et al., **incl. Mak, M. T.**
+        *Modeling Atmospheric Ion Escape from Kepler-1649 b and c over Time*  
+        [The Astrophysical Journal Letters, Volume 994, Number 2, L50 (2025)](https://iopscience.iop.org/article/10.3847/2041-8213/ae1a65)
+
+        - Eager-Nash, J., Daines, S., McDermott, J., et al., **incl. Mak, M. T.**
+        *Simulating biosignatures from pre-oxygen photosynthesizing life on TRAPPIST-1e*  
+        [Monthly Notices of the Royal Astronomical Society, Volume 531, Issue 1, pp.468-494 (2024)](https://academic.oup.com/mnras/article/531/1/468/7659831?login=true)
+    
+        - Villanueva, G., Fauchez, T., Kofman, V., et al., **incl. Mak, M. T.**
+        *Modeling Atmospheric Lines by the Exoplanet Community (MALBEC) Version 1.0: A CUISINES Radiative Transfer Intercomparison Project*  
+        [The Planetary Science Journal, Volume 5, Issue 3, id.64, 15 pp (2024)](https://iopscience.iop.org/article/10.3847/PSJ/ad2681)
+    design:
+      columns: '1'
   #- block: collection
   #  id: talks
   #  content:
