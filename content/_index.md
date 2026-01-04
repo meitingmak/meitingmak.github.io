@@ -57,17 +57,31 @@ sections:
   #  design:
   #    view: article-grid
   #    columns: 2
-  - block: collection
-    id: papers
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Recent Publications
+  #    text: ''
+  #    filters:
+  #      folders:
+  #        - publications
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
+  - block: markdown
+    id: recent-publications
     content:
       title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      text: |-
+        **Mak, M. T.**, Mayne, N., Sergeev, D., Eager-Nash, J., Manners, J., Hebrard E., Kohary, K. 
+        *3D Simulations of the Archean Earth Including Photochemical Haze Profiles*  
+        [Journal of Geophysical Research: Atmospheres, Volume 128, Issue 20 (2023)](https://doi.org/10.xxxx/xxxx](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039343)
+
+        **Mak, M.-T.** & Brown, L. (2023).  
+        *Atmospheric transport and haze variability in exoplanet climates.*  
+        [Monthly Notices of the Royal Astronomical Society](https://arxiv.org/abs/xxxx.xxxxx)
     design:
-      view: citation
+      columns: '1'
   #- block: collection
   #  id: talks
   #  content:
