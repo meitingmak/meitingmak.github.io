@@ -71,15 +71,23 @@ sections:
   - block: markdown
     id: papers
     content:
-      title: Recent Publications
+      title: First-author Publications
       text: |-
-        **Mak, M. T.**, Mayne, N., Sergeev, D., Eager-Nash, J., Manners, J., Hebrard E., Kohary, K. 
-        *3D Simulations of the Archean Earth Including Photochemical Haze Profiles*  
-        [Journal of Geophysical Research: Atmospheres, Volume 128, Issue 20 (2023)](https://doi.org/10.xxxx/xxxx](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039343)
+        - **Mak, M. T.**, Komacek, T., Mayne, N.
+        *Predicting The Distribution of Photochemical Hazes Across The Two Limbs of hot-Jupiters*  
+        [in prep.]
 
-        **Mak, M.-T.** & Brown, L. (2023).  
-        *Atmospheric transport and haze variability in exoplanet climates.*  
-        [Monthly Notices of the Royal Astronomical Society](https://arxiv.org/abs/xxxx.xxxxx)
+        - **Mak, M. T.**, Sergeev, D., Mayne, N., Manners, J., Zamyatina, M., Steinrueck, M., et al.
+        *3D simulations of TRAPPIST-1e with varying CO2, CH4, and haze profiles*  
+        [Monthly Notices of the Royal Astronomical Society, Volume 542, Issue 3, pp.1873–1900 (2025)](https://academic.oup.com/mnras/article/542/3/1873/8217259?login=true)
+
+        - **Mak, M. T.**, Sergeev, D., Mayne, N., Banks, N., Eager-Nash, J., Manners, J., Arney, G., et al.
+        *3D simulations of TRAPPIST-1e with varying CO2, CH4, and haze profiles*  
+        [Monthly Notices of the Royal Astronomical Society, Volume 530, Issue 3, pp.2933-2933 (2024)](https://academic.oup.com/mnras/article/529/4/3971/7633970?login=true)
+    
+        - **Mak, M. T.**, Mayne, N., Sergeev, D., Eager-Nash, J., Manners, J., Hebrard E., Kohary, K. 
+        *3D Simulations of the Archean Earth Including Photochemical Haze Profiles*  
+        [Journal of Geophysical Research: Atmospheres, Volume 128, Issue 20 (2023)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039343)
     design:
       columns: '1'
   #- block: collection
