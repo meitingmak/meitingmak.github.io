@@ -95,15 +95,21 @@ sections:
       title: Co-author Publications
       text: |-
         - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**
-        *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*  
+    
+        *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*
+    
         [EGUsphere in review]
-
+#########################################################################
         - Mukherjee, S., Sings, D., Fu, G., et al., **incl. Mak, M. T.**
-        *Cloudy mornings and clear evenings on a giant extrasolar world*  
+    
+        *Cloudy mornings and clear evenings on a giant extrasolar world*
+    
         [accepted in Science]
 
         - Li, H., Wang, X., Dong, C., et al., **incl. Mak, M. T.**
+        
         *Modeling Atmospheric Ion Escape from Kepler-1649 b and c over Time*  
+        
         [The Astrophysical Journal Letters, Volume 994, Number 2, L50 (2025)](https://iopscience.iop.org/article/10.3847/2041-8213/ae1a65)
 
         - Eager-Nash, J., Daines, S., McDermott, J., et al., **incl. Mak, M. T.**
