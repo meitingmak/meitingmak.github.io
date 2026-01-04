@@ -99,7 +99,7 @@ sections:
         *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*
     
         [EGUsphere in review]
-#########################################################################
+
         - Mukherjee, S., Sings, D., Fu, G., et al., **incl. Mak, M. T.**
     
         *Cloudy mornings and clear evenings on a giant extrasolar world*
