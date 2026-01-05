@@ -19,7 +19,7 @@ main:
   - name: Academic Career
     url: experience/
     weight: 20
-  - name: Academic Service
+  - name: Collaborative Involvement
     url: service/
     weight: 30
  # - name: Courses
