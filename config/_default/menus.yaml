@@ -18,10 +18,10 @@ main:
     weight: 13
   - name: Collaborative Involvement
     url: /#service
-    weight: 30
+    weight: 20
   - name: Academic Career
     url: experience/
-    weight: 20
+    weight: 30
  # - name: Courses
  #   url: courses/
  #   weight: 40
