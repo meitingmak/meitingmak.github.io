@@ -123,10 +123,10 @@ sections:
         - I am a part of **Oxford Planets and Life (OPAL)** where we work to understand how life evolves in diverse environments, and to make predictions of how life might emerge and flourish in distant corners of the Universe.<br>
         [Click here to find out more!](https://opal.physics.ox.ac.uk/)  
 
-        - I serve on the steering committee of the BOWIE+ collaboration, where we develop collaborative JWST GO-time proposals designed to deepen our understanding of how planetary systems take shape and evolve.<br>
+        - I serve on the steering committee of the **BOWIE+ collaboration**, where we develop collaborative JWST GO-time proposals designed to deepen our understanding of how planetary systems take shape and evolve.<br>
         [Click here to find out more!](https://bowiecollaboration.github.io/index.html)
 
-        - I am a member of the Exoclimatology Theory Group, working to unravel the dynamics and chemistry that shape planetary atmospheres and to understand how these processes manifest in the data we gather from afar.<br>
+        - I am a member of the **Exoclimatology Theory Group**, working to unravel the dynamics and chemistry that shape planetary atmospheres and to understand how these processes manifest in the data we gather from afar.<br>
         [Click here to find out more!](https://exoclimatology.com/)
     design:
       columns: '1'
