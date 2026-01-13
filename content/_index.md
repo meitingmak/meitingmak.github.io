@@ -104,11 +104,11 @@ sections:
 
         - Barstow, J., Biller, B., **Mak, M. T.**, et al.<br>
         *Exoplanet characterization with NASA's Habitable Worlds Observatory*    
-        [HWO white paper (2026) available on arxiv](https://arxiv.org/abs/2601.06233)
+        [HWO white paper (2026) available on arXiv](https://arxiv.org/abs/2601.06233)
 
         - Van Eylen, V., Massey, R., Awan, S., et al., **incl. Mak, M. T.**<br>
         *Transformational astrophysics and exoplanet science with Habitable Worlds Observatory's High Resolution Imager*    
-        [HWO white paper (2025) available on arxiv](https://arxiv.org/abs/2512.16416)
+        [HWO white paper (2025) available on arXiv](https://arxiv.org/abs/2512.16416)
 
         - Li, H., Wang, X., Dong, C., et al., **incl. Mak, M. T.**<br>
         *Modeling Atmospheric Ion Escape from Kepler-1649 b and c over Time*          
