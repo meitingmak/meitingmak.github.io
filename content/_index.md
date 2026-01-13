@@ -102,7 +102,7 @@ sections:
         *Cloudy mornings and clear evenings on a giant extrasolar world*    
         [accepted in Science]
 
-        - Barstow, J., Biller, B., **Mak, M. T.**<br>, et al.
+        - Barstow, J., Biller, B., **Mak, M. T.**, et al.<br>
         *Exoplanet characterization with NASA's Habitable Worlds Observatory*    
         [HWO white paper (2026) available on arxiv](https://arxiv.org/abs/2601.06233)
 
