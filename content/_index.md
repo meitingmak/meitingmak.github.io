@@ -102,6 +102,14 @@ sections:
         *Cloudy mornings and clear evenings on a giant extrasolar world*    
         [accepted in Science]
 
+        - Barstow, J., Biller, B., **Mak, M. T.**<br>, et al.
+        *Exoplanet characterization with NASA's Habitable Worlds Observatory*    
+        [HWO white paper (2026) available on arxiv](https://arxiv.org/abs/2601.06233)
+
+        - Van Eylen, V., Massey, R., Awan, S., et al., **incl. Mak, M. T.**<br>
+        *Transformational astrophysics and exoplanet science with Habitable Worlds Observatory's High Resolution Imager*    
+        [HWO white paper (2025) available on arxiv](https://arxiv.org/abs/2512.16416)
+
         - Li, H., Wang, X., Dong, C., et al., **incl. Mak, M. T.**<br>
         *Modeling Atmospheric Ion Escape from Kepler-1649 b and c over Time*          
         [The Astrophysical Journal Letters, Volume 994, Number 2, L50 (2025)](https://iopscience.iop.org/article/10.3847/2041-8213/ae1a65)
