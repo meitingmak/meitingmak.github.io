@@ -74,7 +74,7 @@ sections:
       title: First-author Publications
       text: |-
         - **Mak, M. T.**, Komacek, T., Mayne, N.<br>
-        *Predicting The Distribution of Photochemical Hazes Across The Two Limbs of hot-Jupiters*  
+        *An Analytical Framework for Predicting the Distribution of Photochemical Hazes Across the Two Limbs of hot-Jupiters*  
         [in prep.]
 
         - **Mak, M. T.**, Sergeev, D., Mayne, N., Manners, J., Zamyatina, M., Steinrueck, M., et al.<br>
@@ -96,11 +96,15 @@ sections:
       text: |-
         - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**<br>
         *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*    
-        [EGUsphere in review]
+        [accepted in Geoscientific Model Development]
 
         - Mukherjee, S., Sings, D., Fu, G., et al., **incl. Mak, M. T.**<br>
         *Cloudy mornings and clear evenings on a giant extrasolar world*    
         [accepted in Science]
+
+        - Chubb, K., **Mak, M. T.**, Biller, B., Rugheimer, S., et al.<br>
+        *The power of polarimetry for characterising exoplanet atmospheres, clouds, and surfaces with NASA’s Habitable Worlds Observatory*    
+        [HWO white paper (2026) available on arXiv](https://arxiv.org/abs/2601.20902)
 
         - Barstow, J., Biller, B., **Mak, M. T.**, et al.<br>
         *Exoplanet characterization with NASA's Habitable Worlds Observatory*    
