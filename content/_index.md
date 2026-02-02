@@ -75,7 +75,7 @@ sections:
       text: |-
         - **Mak, M. T.**, Komacek, T., Mayne, N.<br>
         *An Analytical Framework for Predicting the Distribution of Photochemical Hazes Across the Two Limbs of hot-Jupiters*  
-        [in prep.]
+        [submitted]
 
         - **Mak, M. T.**, Sergeev, D., Mayne, N., Manners, J., Zamyatina, M., Steinrueck, M., et al.<br>
         *3D simulations of TRAPPIST-1e with varying CO2, CH4, and haze profiles*  
