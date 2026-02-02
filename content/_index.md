@@ -73,7 +73,7 @@ sections:
     content:
       title: First-author Publications
       text: |-
-        - **Mak, M. T.**, Komacek, T., Mayne, N.<br>
+        - **Mak, M. T.**, Komacek, T., Mayne, N., Sing, D.<br>
         *An Analytical Framework for Predicting the Distribution of Photochemical Hazes Across the Two Limbs of hot-Jupiters*  
         [submitted]
 
