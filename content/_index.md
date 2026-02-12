@@ -188,6 +188,13 @@ sections:
               target="_blank">
               Clich here to read my Croucher Fellow profile!
            </a>
+
+           <a class="btn btn-primary"
+              style="display:block; text-decoration: underline;"
+              href="https://croucher.org.hk/en/news/peering-through-the-haze"
+              target="_blank">
+              Clich here to read the Croucher News featuring my research: Peering through the haze !
+           </a>
         </div>
     design:
       card:
