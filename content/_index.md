@@ -90,6 +90,7 @@ sections:
         [Journal of Geophysical Research: Atmospheres, Volume 128, Issue 20 (2023)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039343)
     design:
       columns: '1'
+      width: full
   - block: markdown
     content:
       title: Co-author Publications
