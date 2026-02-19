@@ -73,6 +73,8 @@ sections:
     content:
       title: First-author Publications
       text: |-
+        <div style="font-size:1.05rem; line-height:1.8; max-width:850px; margin:auto;">
+ 
         - **Mak, M. T.**, Komacek, T., Mayne, N., Sing, D.<br>
         *An Analytical Framework for Predicting the Distribution of Photochemical Hazes Across the Two Limbs of hot-Jupiters*  
         [submitted]
@@ -88,9 +90,10 @@ sections:
         - **Mak, M. T.**, Mayne, N., Sergeev, D., Eager-Nash, J., Manners, J., Hebrard E., Kohary, K.<br>
         *3D Simulations of the Archean Earth Including Photochemical Haze Profiles*  
         [Journal of Geophysical Research: Atmospheres, Volume 128, Issue 20 (2023)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039343)
+
+        </div>
     design:
       columns: '1'
-      width: full
   - block: markdown
     content:
       title: Co-author Publications
