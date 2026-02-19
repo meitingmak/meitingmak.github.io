@@ -96,7 +96,7 @@ sections:
       text: |-
         - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**<br>
         *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*    
-        [accepted in Geoscientific Model Development]
+        [accepted in Geoscientific Model Development, available on arXiv](https://arxiv.org/abs/2602.16453)
 
         - Mukherjee, S., Sings, D., Fu, G., et al., **incl. Mak, M. T.**<br>
         *Cloudy mornings and clear evenings on a giant extrasolar world*    
