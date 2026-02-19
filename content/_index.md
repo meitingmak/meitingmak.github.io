@@ -90,7 +90,6 @@ sections:
         - **Mak, M. T.**, Mayne, N., Sergeev, D., Eager-Nash, J., Manners, J., Hebrard E., Kohary, K.<br>
         *3D Simulations of the Archean Earth Including Photochemical Haze Profiles*  
         [Journal of Geophysical Research: Atmospheres, Volume 128, Issue 20 (2023)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039343)
-
         </div>
     design:
       columns: '1'
@@ -133,10 +132,11 @@ sections:
         - Villanueva, G., Fauchez, T., Kofman, V., et al., **incl. Mak, M. T.**<br>
         *Modeling Atmospheric Lines by the Exoplanet Community (MALBEC) Version 1.0: A CUISINES Radiative Transfer Intercomparison Project*  
         [The Planetary Science Journal, Volume 5, Issue 3, id.64, 15 pp (2024)](https://iopscience.iop.org/article/10.3847/PSJ/ad2681)
-
         </div>
     design:
       columns: '1'
+      spacing:
+        padding: [2rem, 0, 2rem, 0]
   - block: markdown
     id: service
     content:
