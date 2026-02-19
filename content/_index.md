@@ -94,10 +94,14 @@ sections:
         </div>
     design:
       columns: '1'
+      spacing:
+        padding: [2rem, 0, 2rem, 0]
   - block: markdown
     content:
       title: Co-author Publications
       text: |-
+        <div style="font-size:1.05rem; line-height:1.8; max-width:850px; margin:auto;">
+    
         - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**<br>
         *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*    
         [accepted in Geoscientific Model Development, available on arXiv](https://arxiv.org/abs/2602.16453)
@@ -129,6 +133,8 @@ sections:
         - Villanueva, G., Fauchez, T., Kofman, V., et al., **incl. Mak, M. T.**<br>
         *Modeling Atmospheric Lines by the Exoplanet Community (MALBEC) Version 1.0: A CUISINES Radiative Transfer Intercomparison Project*  
         [The Planetary Science Journal, Volume 5, Issue 3, id.64, 15 pp (2024)](https://iopscience.iop.org/article/10.3847/PSJ/ad2681)
+
+        </div>
     design:
       columns: '1'
   - block: markdown
