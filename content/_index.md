@@ -73,7 +73,8 @@ sections:
     content:
       title: First-author Publications
       text: |-
-        <div style="font-size:1.05rem; line-height:1.8; max-width:850px; margin:auto;"> 
+        <div style="font-size:1.05rem; line-height:1.8; max-width:850px; margin:auto;">
+    
         - **Mak, M. T.**, Komacek, T., Mayne, N., Sing, D.<br>
         *An Analytical Framework for Predicting the Distribution of Photochemical Hazes Across the Two Limbs of hot-Jupiters*  
         [submitted]
@@ -98,7 +99,8 @@ sections:
     content:
       title: Co-author Publications
       text: |-
-        <div style="font-size:1.05rem; line-height:1.8; max-width:850px; margin:auto;">    
+        <div style="font-size:1.05rem; line-height:1.8; max-width:850px; margin:auto;">
+    
         - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**<br>
         *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*    
         [accepted in Geoscientific Model Development, available on arXiv](https://arxiv.org/abs/2602.16453)
@@ -141,6 +143,7 @@ sections:
       title: Research Group Engagement
       text: |-
         <div style="font-size:1.05rem; line-height:1.8; max-width:850px; margin:auto;">
+        
         - I am a part of **Oxford Planets and Life (OPAL)** where we work to understand how life evolves in diverse environments, and to make predictions of how life might emerge and flourish in distant corners of the Universe.<br>
         [Click here to find out more!](https://opal.physics.ox.ac.uk/)  
 
