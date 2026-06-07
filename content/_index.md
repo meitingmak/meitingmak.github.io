@@ -77,7 +77,7 @@ sections:
     
         - **Mak, M. T.**, Komacek, T., Mayne, N., Sing, D.<br>
         *An Analytical Framework for Predicting the Distribution of Photochemical Hazes Across the Two Limbs of hot-Jupiters*  
-        [submitted]
+        [MNRAS in review]
 
         - **Mak, M. T.**, Sergeev, D., Mayne, N., Manners, J., Zamyatina, M., Steinrueck, M., et al.<br>
         *3D simulations of TRAPPIST-1e with varying CO2, CH4, and haze profiles*  
@@ -100,14 +100,22 @@ sections:
       title: Co-author Publications
       text: |-
         <div style="font-size:1.05rem; line-height:1.8; max-width:850px; margin:auto;">
-    
+
+        - Lothringer, J., Wakeford, H., Frazier, R., et al. **incl. Mak, M. T.**<br>
+        *Characterizing Transiting Exoplanet Atmospheres in the 2030s with the Hubble Space Telescope*    
+        [HST roadmap white paper (2026) available on arXiv](https://arxiv.org/abs/2606.04144)
+
+        - Stevenson, E., **Mak, M. T.**, Wolf, E., et al.<br>
+        *Gaussian Process Latent Factor Regression for Low-Data, High-Dimensional Output Problems*    
+        [accepted in Symposium on Probabilistic Machine Learning]
+
         - Adams, S., Manners, J., Mayne, N., et al., **incl. Mak, M. T.**<br>
         *Benchmarking Photolysis Rates: Species for Earth and Exoplanets*    
         [accepted in Geoscientific Model Development, available on arXiv](https://arxiv.org/abs/2602.16453)
 
         - Mukherjee, S., Sings, D., Fu, G., et al., **incl. Mak, M. T.**<br>
         *Cloudy mornings and clear evenings on a giant extrasolar world*    
-        [accepted in Science]
+        [Science, Volume 392, 858-862 (2026)](https://www.science.org/doi/10.1126/science.adx5903)
 
         - Chubb, K., **Mak, M. T.**, Biller, B., Rugheimer, S., et al.<br>
         *The power of polarimetry for characterising exoplanet atmospheres, clouds, and surfaces with NASA’s Habitable Worlds Observatory*    
