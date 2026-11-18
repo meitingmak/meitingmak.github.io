@@ -16,101 +16,63 @@ cv:
 
   sections:
     education:
-      - institution: University of Zurich
+      - institution: University of Exeter
         area: Physics
-        degree: PhD
-        start_date: 1900
-        end_date: 1905
+        #degree: PhD
+        start_date: 2021
+        end_date: 2025
         highlights:
-          - 'Thesis: "A New Determination of Molecular Dimensions"'
-          - 'Supervisor: Alfred Kleiner'
+          - 'Thesis: "Advancing the Theory of Haze in Exoplanetary Atmospheres"'
+          #- 'Supervisor: Alfred Kleiner'
 
-      - institution: ETH Zurich
-        area: Mathematics and Physics Teaching Diploma
-        degree: Diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Exeter
+        area: Master of Physics with Honours in Physics
+        #degree: Diploma
+        start_date: 2017
+        end_date: 2021
 
     experience:
-      - company: Institute for Advanced Study
-        position: Professor
-        location: Princeton, NJ
-        start_date: 1933
+      - company: University of Oxford
+        position: Croucher Postdoctoral Fellow
+        location: Oxford, United Kingdom
+        start_date: 2025
         end_date: present
-        highlights:
-          - Developed unified field theory research program
-          - Mentored generations of physicists and mathematicians
-          - Contributed to foundations of quantum mechanics debates
+        #highlights:
+        #  - Developed unified field theory research program
+        #  - Mentored generations of physicists and mathematicians
+        #  - Contributed to foundations of quantum mechanics debates
 
-      - company: University of Berlin
-        position: Professor and Director
-        location: Berlin, Germany
-        start_date: 1914
-        end_date: 1933
-        highlights:
-          - Developed the general theory of relativity (1915)
-          - Predicted gravitational waves and black holes
-          - Awarded Nobel Prize in Physics (1921)
+      - company: University of Exeter
+        position: Postdoctoral Research Fellow
+        location: Exeter, United Kingdom
+        start_date: 2025
+        end_date: 2025
+        #highlights:
+        #  - Developed the general theory of relativity (1915)
+        #  - Predicted gravitational waves and black holes
+        #  - Awarded Nobel Prize in Physics (1921)
 
-      - company: University of Zurich
-        position: Associate Professor
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-      - company: Swiss Patent Office
-        position: Technical Expert (Third Class)
-        location: Bern, Switzerland
-        start_date: 1902
-        end_date: 1909
-        highlights:
-          - Evaluated patent applications while conducting independent research
-          - Published four landmark papers in 1905 (Annus Mirabilis)
-
-    publications:
-      - title: 'On the Electrodynamics of Moving Bodies'
-        authors:
-          - Albert Einstein
-        doi: 10.1002/andp.19053221004
-        date: 1905-06
-        journal: Annalen der Physik
-
-      - title: 'Does the Inertia of a Body Depend Upon Its Energy Content?'
-        authors:
-          - Albert Einstein
-        doi: 10.1002/andp.19053231314
-        date: 1905-09
-        journal: Annalen der Physik
-
-      - title: 'Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?'
-        authors:
-          - Albert Einstein
-          - Boris Podolsky
-          - Nathan Rosen
-        doi: 10.1103/PhysRev.47.777
-        date: 1935-05
-        journal: Physical Review
-
-      - title: 'On the General Theory of Relativity'
-        authors:
-          - Albert Einstein
-        date: 1915-11
-        journal: Prussian Academy of Sciences
+    #publications:
+    #  - title: 'On the Electrodynamics of Moving Bodies'
+    #    authors:
+    #      - Albert Einstein
+    #    doi: 10.1002/andp.19053221004
+    #    date: 1905-06
+    #    journal: Annalen der Physik
 
     awards:
-      - name: Nobel Prize in Physics
-        date: '1921'
-        issuer: Royal Swedish Academy of Sciences
-        highlights:
-          - 'For services to theoretical physics, and especially for his discovery of the law of the photoelectric effect'
+      - name: Co-Champion in Exoplanet Hackathon on Machine Learning
+        date: 'March 2026'
+        issuer: Ariel Consortium
+        #highlights:
+        #  - 'For services to theoretical physics, and especially for his discovery of the law of the photoelectric effect'
 
-      - name: Copley Medal
-        date: '1925'
-        issuer: Royal Society
+      - name: Croucher Postdoctoral Fellowship
+        date: '2025-2027'
+        issuer: Croucher Foundation
+        hightlights:
+          - 'Awarded ∼£ 140, 000'
 
-      - name: Max Planck Medal
-        date: '1929'
-        issuer: German Physical Society
 
     skills:
       - label: Theoretical Physics
