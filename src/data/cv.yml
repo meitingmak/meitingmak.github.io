@@ -30,6 +30,8 @@ cv:
         #degree: Diploma
         start_date: 2017
         end_date: 2021
+        highlights:
+          - 'Thesis: "The Dynamics of Discs Around Young Binary and Multiple Stellar Systems"'       
 
     experience:
       - company: University of Oxford
@@ -73,19 +75,46 @@ cv:
         hightlights:
           - 'Awarded ∼£ 140, 000'
 
+      - name: Bell Burnell Graduate Scholarship Fund
+        date: '2021-2025'
+        issuer: Institute of Physics
+        hightlights:
+          - 'Awarded ∼£ 77, 000'
 
-    skills:
-      - label: Theoretical Physics
-        details: General Relativity, Special Relativity, Quantum Mechanics, Statistical Mechanics
-      - label: Mathematics
-        details: Differential Geometry, Tensor Calculus, Riemannian Geometry
-      - label: Languages
-        details: German (native), English (fluent), French (proficient)
+      - name: Jackson-Grim-Davies Internships
+        date: '2022, 2023'
+        issuer: University of Exeter
+        hightlights:
+          - 'Awarded ∼£ 2,900 & £ 3,200'
 
-    interests:
-      - label: Music
-        details: Violin, Mozart, Bach
-      - label: Philosophy
-        details: Spinoza, Mach, Kant
-      - label: Sailing
-        details: Long Island Sound, Swiss lakes
+      - name: Access-to-Internships
+        date: '2022'
+        issuer: University of Exeter
+        hightlights:
+          - 'Awarded ∼£ 2, 000'
+
+      - name: Physics Prize
+        date: '2020, 2021'
+        issuer: University of Exeter
+
+      - name: Dean’s Commendation for Exceptional Performance
+        date: '2018, 2019, 2020, 2021'
+        issuer: University of Exeter
+
+
+
+    #skills:
+    #  - label: Theoretical Physics
+    #    details: General Relativity, Special Relativity, Quantum Mechanics, Statistical Mechanics
+    #  - label: Mathematics
+    #    details: Differential Geometry, Tensor Calculus, Riemannian Geometry
+    #  - label: Languages
+    #    details: German (native), English (fluent), French (proficient)
+
+    #interests:
+    #  - label: Music
+    #    details: Violin, Mozart, Bach
+    #  - label: Philosophy
+    #    details: Spinoza, Mach, Kant
+    #  - label: Sailing
+    #    details: Long Island Sound, Swiss lakes
