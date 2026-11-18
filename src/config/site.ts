@@ -350,7 +350,7 @@ export const site = {
      * Max number of authors shown before "and N more..." link.
      * Set to undefined to always show all authors.
      */
-    maxAuthorLimit: 3 as number | undefined,
+    maxAuthorLimit: undefined as number | undefined,
     /** Enable thumbnail images for publications (if `preview` set in BibTeX). */
     thumbnails: true,
     /**
@@ -358,7 +358,7 @@ export const site = {
      * Defaults to the last word of `site.author.name` when not set.
      * Override explicitly if your publications use a different name form.
      */
-    authorLastName: undefined as string | undefined,
+    authorLastName: 'Mak',
     /** Path prefix (relative to public/) for publication preview images. */
     previewDir: '/assets/img/publication_preview/',
     /** Path prefix (relative to public/) for publication PDFs and supplements. */
