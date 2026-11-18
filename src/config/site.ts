@@ -56,10 +56,9 @@ export const site = {
      * Subtitle below your name on the about page.
      * HTML is supported.
      */
-    subtitle: `Astrophysicist
+    subtitle: `Croucher Postdoctoral Fellow 
       &nbsp;·&nbsp;
-      <a href="https://www.physics.ox.ac.uk/our-people/makm">University of Oxford</a>,
-      University of Oxford`,
+      <a href="https://www.physics.ox.ac.uk/our-people/makm">University of Oxford</a>`,
 
     /**
      * Address block below profile photo.
