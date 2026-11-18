@@ -66,7 +66,8 @@ export const site = {
      */
     moreInfo: `<p>Sub-Department of Atmospheric, Oceanic and Planetary Physics</p>
       <p>University of Oxford</p>
-      <p>Parks Road, Oxford OX1 3PU</p>`,
+      <p>Parks Road,</p>
+      </p>Oxford OX1 3PU</p>`,
   },
 
   // ─── Social links ──────────────────────────────────────────────────────────
@@ -78,13 +79,13 @@ export const site = {
   //   bluesky_handle, medium_username, cv_pdf, rss_icon
 
   socials: {
-    email: 'einstein@example.com',
+    email: 'martha.mak@physics.ox.ac.uk',
     x_username: undefined as string | undefined,
     linkedin_username: undefined as string | undefined,
     github_username: undefined as string | undefined,
     gitlab_username: undefined as string | undefined,
     /** Google Scholar user ID — the part after user= in your Scholar URL */
-    scholar_userid: 'qc6CJjYAAAAJ',
+    scholar_userid: 'KVZE3doAAAAJ&hl',
     orcid_id: undefined as string | undefined,
     /** Inspire HEP author ID */
     inspire_id: '1010907',
