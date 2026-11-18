@@ -1,22 +1,21 @@
 
 ---
-title: 'Photochemical Hazes and Planetary Habitability'
+title: 'Role of Photochemical Hazes in Planetary Habitability'
 description: 'Investigating how photochemical hazes shape the climates and habitability of rocky planets, from the Archean Earth to TRAPPIST-1e.'
-img: /assets/img/1.jpg
-img_alt: Illustration of a planetary atmosphere
+img: /assets/img/APE_radiation_schematic.png
+img_alt: Schematic taken from Mak et al. (2023) which shows the changes of radiation in the absence of haze (left), with a thin haze layer (middle) and a thick haze layer (right). Blue solid arrows shows the shortwave radiation and red dashed arrows show the longwave radiation. Arrow density represents the intensity of radiation. Green dots represent haze.
 importance: 1
 category: research
 related_publications:
   - Mak2023Archean
   - Mak2024TRAPPIST1e
-  - EagerNash2024Biosignatures
 ---
 
 ## Overview
 
-Photochemical hazes can profoundly influence planetary climates by modifying the absorption and scattering of stellar radiation, as well as the atmospheric temperature structure and circulation.
+Photochemical hazes are expected to be prevalent in planets, including the Early Earth. Their presence can impact the climate through absorbing and scattering away the incoming stellar radiation, changing the energy balance within the planetary atmosphere and hence the temperature structure and circulation.
 
-My research investigates these processes using three-dimensional general circulation models, with a particular focus on the Archean Earth and potentially habitable rocky exoplanets.
+My research investigates the roles of photochemical haze in planetary climate and habitability using 3D General Circulation Model GCM, the Unified Model (UM), with a particular focus on the Archean Earth and potentially habitable rocky exoplanets.
 
 ## Photochemical Hazes on the Archean Earth
 
@@ -29,6 +28,8 @@ Our results revealed that optically thin haze can produce surface warming throug
 These findings demonstrate the importance of haze–radiation–dynamics interactions in understanding the climate of early Earth.
 
 ## Photochemical Hazes on TRAPPIST-1e
+
+![Surface temperature changes in Archean Earth simulations](/assets/img/t_surf_day_night_REP.png)
 
 I extended this work to TRAPPIST-1e, a potentially habitable rocky planet orbiting an M-dwarf star.
 
