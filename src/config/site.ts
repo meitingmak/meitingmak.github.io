@@ -85,7 +85,7 @@ export const site = {
     scholar_userid: 'KVZE3doAAAAJ&hl',
     orcid_id: '0000-0002-1624-3360',
     researchgate_username: 'Mei-Ting-Mak',
-    arxiv_id: 'meitingmak',
+    arxiv_id: 'Mak, M T',
     cv_pdf: '/assets/pdf/example_pdf.pdf',
     x_username: undefined as string | undefined,
     gitlab_username: undefined as string | undefined,
