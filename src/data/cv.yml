@@ -62,7 +62,7 @@ cv:
     #    date: 1905-06
     #    journal: Annalen der Physik
 
-    Grants, Fellowships & Awards:
+    awards:
       - name: Co-Champion in Exoplanet Hackathon on Machine Learning
         date: 'March 2026'
         issuer: Ariel Consortium
