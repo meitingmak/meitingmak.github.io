@@ -50,7 +50,7 @@ export const site = {
     email: 'martha.mak@physics.ox.ac.uk',
 
     /** Path to profile photo. Place image in public/assets/img/. */
-    avatar: '/assets/img/prof_pic.jpg',
+    avatar: '/assets/img/me_July_2026_2_edit.JPG',
 
     /**
      * Subtitle below your name on the about page.
