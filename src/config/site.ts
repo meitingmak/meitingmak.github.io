@@ -84,14 +84,14 @@ export const site = {
     github_username: 'meitingmak',
     scholar_userid: 'KVZE3doAAAAJ&hl',
     orcid_id: '0000-0002-1624-3360',
-    researchgate_username: 'Mei Ting Mak',
-    arxiv_id: 'Mei Ting Mak',
+    researchgate_username: 'Mei-Ting-Mak',
+    arxiv_id: 'meitingmak',
     cv_pdf: '/assets/pdf/example_pdf.pdf',
     x_username: undefined as string | undefined,
     gitlab_username: undefined as string | undefined,
     /** Google Scholar user ID — the part after user= in your Scholar URL */
     /** Inspire HEP author ID */
-    inspire_id: '1010907',
+    inspire_id: undefined as string | undefined,
     youtube_id: undefined as string | undefined,
     instagram_username: undefined as string | undefined,
     mastodon_url: undefined as string | undefined,
