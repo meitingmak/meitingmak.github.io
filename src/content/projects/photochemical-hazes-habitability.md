@@ -23,6 +23,8 @@ My research investigates the roles of photochemical haze in planetary climate an
 
 Earth is currently the only planet known to harbour life. The Archean Eon (2.5 - 4 billion years ago) accounts for nearly 40% of Earth's history, with evidence of life dating back approximately 3.8 billion years. Studying the Archean Earth is therefore crucial to understanding how life first emerged and evolved on our planet. 
 
+<div style="height: 20px;"></div>
+
 The atmosphere of the Archean Earth was more reducing than that of the modern Earth, which is characterised by an oxygen-rich, oxidising atmosphere. The Archean atmosphere is thought to have been dominated by gases including N2, CO2 and CH4. The presence of CH4 and CO2 would give rise to the formation of organic photochemical hazes through atmospheric photochemistry. Understanding how these gases and photochemical hazes influenced the climate of the Archean Earth is therefore essential for investigating the conditions that supported early life and assessing the potential habitability of other rocky planets.
 
 Using 3D GCM, the UM, I investigated how prescribed photochemical haze profiles produced by the 1D photochemical model, Atmos, impact atmospheric circulation and surface temperatures. Our results showed that optically thin haze can produce surface warming through increasing the atmospheric water vapour abundance and decreasing the cloud mass fraction, while optically thicker haze can lead to substantial surface cooling, as well as inverted thermal structure due to the anti-greenhouse cooling effect.
