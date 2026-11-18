@@ -16,7 +16,8 @@ related_publications:
 Photochemical hazes are expected to be prevalent in planets, including the Early Earth. Their presence can impact the climate through absorbing and scattering away the incoming stellar radiation, changing the energy balance within the planetary atmosphere and hence the temperature structure and circulation.
 
 My research investigates the roles of photochemical haze in planetary climate and habitability using 3D General Circulation Model GCM, the Unified Model (UM), with a particular focus on the Archean Earth and potentially habitable rocky exoplanets.
----
+
+<div style="height: 80px;"></div>
 
 ## Photochemical Hazes on the Archean Earth
 
@@ -27,19 +28,22 @@ Using three-dimensional climate simulations, I investigated how prescribed photo
 Our results revealed that optically thin haze can produce surface warming through changes in atmospheric water vapour and cloud feedbacks, while optically thicker haze can lead to substantial cooling.
 
 These findings demonstrate the importance of haze–radiation–dynamics interactions in understanding the climate of early Earth.
----
+
+<div style="height: 80px;"></div>
 
 ## Photochemical Hazes on TRAPPIST-1e
 
-![Surface temperature changes in Archean Earth simulations](/assets/img/t_surf_day_night_REP.png)
----
----
+![Surface temperature changes in Archean Earth simulations](/assets/img/HAM_t_surf_day_night_REP.pdf)
+
+<div style="height: 80px;"></div>
 
 I extended this work to TRAPPIST-1e, a potentially habitable rocky planet orbiting an M-dwarf star.
 
 Through three-dimensional simulations with varying CO2, CH4, and photochemical haze profiles, I investigated how atmospheric composition and haze properties influence surface temperatures and atmospheric circulation.
 
 Our simulations showed that thin haze layers can enhance surface warming under certain conditions, while thicker haze layers generally lead to cooling.
+
+<div style="height: 80px;"></div>
 ---
 
 ## Related Publications
