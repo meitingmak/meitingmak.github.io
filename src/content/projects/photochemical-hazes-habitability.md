@@ -43,8 +43,6 @@ Through three-dimensional simulations with varying CO2, CH4, and photochemical h
 
 Our simulations showed that thin haze layers can enhance surface warming under certain conditions, while thicker haze layers generally lead to cooling.
 
-<div style="height: 80px;"></div>
-
 
 ## Related Publications
 
