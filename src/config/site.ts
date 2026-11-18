@@ -80,24 +80,25 @@ export const site = {
 
   socials: {
     email: 'martha.mak@physics.ox.ac.uk',
-    x_username: undefined as string | undefined,
-    linkedin_username: undefined as string | undefined,
-    github_username: undefined as string | undefined,
-    gitlab_username: undefined as string | undefined,
-    /** Google Scholar user ID — the part after user= in your Scholar URL */
+    linkedin_username: 'Mei Ting Mak',
+    github_username: 'meitingmak',
     scholar_userid: 'KVZE3doAAAAJ&hl',
-    orcid_id: undefined as string | undefined,
+    orcid_id: '0000-0002-1624-3360',
+    researchgate_username: 'Mei Ting Mak',
+    arxiv_id: 'Mei Ting Mak',
+    //cv_pdf: '/assets/pdf/example_pdf.pdf',
+    //x_username: undefined as string | undefined,
+    //gitlab_username: undefined as string | undefined,
+    /** Google Scholar user ID — the part after user= in your Scholar URL */
     /** Inspire HEP author ID */
-    inspire_id: '1010907',
-    researchgate_username: undefined as string | undefined,
-    arxiv_id: undefined as string | undefined,
-    youtube_id: undefined as string | undefined,
-    instagram_username: undefined as string | undefined,
-    mastodon_url: undefined as string | undefined,
-    bluesky_handle: undefined as string | undefined,
-    medium_username: undefined as string | undefined,
+    //inspire_id: '1010907',
+    //researchgate_username: 'Mei Ting Mak',
+    //youtube_id: undefined as string | undefined,
+    //instagram_username: undefined as string | undefined,
+    //mastodon_url: undefined as string | undefined,
+    //bluesky_handle: undefined as string | undefined,
+    //medium_username: undefined as string | undefined,
     /** Path to CV PDF in public/assets/pdf/ */
-    cv_pdf: '/assets/pdf/example_pdf.pdf',
     /** Show RSS icon in social links */
     rss_icon: true,
   },
