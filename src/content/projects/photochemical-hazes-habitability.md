@@ -33,7 +33,13 @@ These findings demonstrate the importance of haze–radiation–dynamics interac
 
 ## Photochemical Hazes on TRAPPIST-1e
 
-![Surface temperature changes in Archean Earth simulations](/assets/img/HAM_t_surf_day_night_REP.pdf)
+<iframe
+  src="/assets/img/HAM_t_surf_day_night_REP.pdf#toolbar=0&navpanes=0"
+  width="100%"
+  height="550"
+  style="border: none;"
+  title="Surface temperature changes on TRAPPIST-1e">
+</iframe>
 
 <div style="height: 80px;"></div>
 
