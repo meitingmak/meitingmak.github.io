@@ -35,7 +35,7 @@ export const site = {
   title: 'Mei Ting (Martha) Mak',
 
   /** Site description. Used in meta tags. */
-  description: 'A simple, clean, and responsive Astro template for academics. Powered by as-folio.',
+  description: 'Personal academic website of Mei Ting (Martha) Mak',
 
   /** Language code for the site. */
   lang: 'en',
@@ -44,10 +44,10 @@ export const site = {
 
   author: {
     /** Full name shown in navbar, about page heading, and footer. */
-    name: 'Albert Einstein',
+    name: 'Mei Ting (Martha) Mak',
 
     /** Short email address (used in social links). */
-    email: 'einstein@example.com',
+    email: 'martha.mak@physics.ox.ac.uk',
 
     /** Path to profile photo. Place image in public/assets/img/. */
     avatar: '/assets/img/prof_pic.jpg',
@@ -56,7 +56,7 @@ export const site = {
      * Subtitle below your name on the about page.
      * HTML is supported.
      */
-    subtitle: `Theoretical Physicist
+    subtitle: `Astrophysicist
       &nbsp;·&nbsp;
       <a href="https://en.wikipedia.org/wiki/Institute_for_Advanced_Study">Institute for Advanced Study</a>,
       Princeton`,
