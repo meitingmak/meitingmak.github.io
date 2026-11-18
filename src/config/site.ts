@@ -350,7 +350,7 @@ export const site = {
      * Max number of authors shown before "and N more..." link.
      * Set to undefined to always show all authors.
      */
-    maxAuthorLimit: undefined as number | undefined,
+    maxAuthorLimit: 30 as number | undefined,
     /** Enable thumbnail images for publications (if `preview` set in BibTeX). */
     thumbnails: true,
     /**
