@@ -58,16 +58,16 @@ export const site = {
      */
     subtitle: `Astrophysicist
       &nbsp;·&nbsp;
-      <a href="https://en.wikipedia.org/wiki/Institute_for_Advanced_Study">Institute for Advanced Study</a>,
-      Princeton`,
+      <a href="https://www.physics.ox.ac.uk/our-people/makm">University of Oxford</a>,
+      University of Oxford`,
 
     /**
      * Address block below profile photo.
      * HTML is supported.
      */
-    moreInfo: `<p>Institute for Advanced Study</p>
-      <p>Einstein Drive</p>
-      <p>Princeton, NJ 08540</p>`,
+    moreInfo: `<p>Sub-Department of Atmospheric, Oceanic and Planetary Physics</p>
+      <p>University of Oxford</p>
+      <p>Parks Road, Oxford OX1 3PU</p>`,
   },
 
   // ─── Social links ──────────────────────────────────────────────────────────
