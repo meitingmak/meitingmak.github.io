@@ -27,25 +27,27 @@ Earth is currently the only planet known to harbour life. The Archean Eon (2.5 -
 
 The atmosphere of the Archean Earth was more reducing than that of the modern Earth, which is characterised by an oxygen-rich, oxidising atmosphere. The Archean atmosphere is thought to have been dominated by gases including N2, CO2 and CH4. The presence of CH4 and CO2 would give rise to the formation of organic photochemical hazes through atmospheric photochemistry. Understanding how these gases and photochemical hazes influenced the climate of the Archean Earth is therefore essential for investigating the conditions that supported early life and assessing the potential habitability of other rocky planets.
 
-Using 3D GCM, the UM, I investigated how prescribed photochemical haze profiles produced by the 1D photochemical model, Atmos, impact atmospheric circulation and surface temperatures. Our results showed that optically thin haze can produce surface warming through increasing the atmospheric water vapour abundance and decreasing the cloud mass fraction, while optically thicker haze can lead to substantial surface cooling, as well as inverted thermal structure due to the anti-greenhouse cooling effect.
+<div style="height: 20px;"></div>
 
-These findings demonstrate the importance of haze–radiation–dynamics interactions in understanding the climate of early Earth.
+Using 3D GCM, the UM, I investigated how prescribed photochemical haze profiles produced by the 1D photochemical model, Atmos, impact atmospheric circulation and surface temperatures. Our results showed that optically thin haze can produce surface warming through increasing the atmospheric water vapour abundance and decreasing the cloud mass fraction, while optically thicker haze can lead to substantial surface cooling, as well as inverted thermal structure due to the anti-greenhouse cooling effect. Our results have profound implications to resolving the Faint Young Sun Paradox, suggesting that a thin haze layer might have helped maintained a temperate climate despite the Earth orbiting a colder Sun during the Archean Eon.
+
+
 
 <div style="height: 80px;"></div>
 
 ## Photochemical Hazes on TRAPPIST-1e
 
+I extended this work to TRAPPIST-1e, a tidally-locked rocky planet orbiting an M-dwarf star.
+
+<div style="height: 20px;"></div>
+
 <iframe
   src="/assets/img/HAM_t_surf_day_night_REP.pdf#toolbar=0&navpanes=0"
   width="100%"
-  height="550"
+  height="300"
   style="border: none;"
   title="Surface temperature changes on TRAPPIST-1e">
 </iframe>
-
-<div style="height: 80px;"></div>
-
-I extended this work to TRAPPIST-1e, a potentially habitable rocky planet orbiting an M-dwarf star.
 
 Through three-dimensional simulations with varying CO2, CH4, and photochemical haze profiles, I investigated how atmospheric composition and haze properties influence surface temperatures and atmospheric circulation.
 
