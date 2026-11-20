@@ -117,10 +117,10 @@ export const site = {
      * `href` values are relative to the site root (base is prepended automatically).
      */
     items: [
-      { label: 'about', href: '/' },
-      { label: 'blog', href: '/blog/' },
-      { label: 'publications', href: '/publications/' },
-      { label: 'projects', href: '/projects/' },
+      { label: 'About', href: '/' },
+      { label: 'Publications', href: '/publications/' },
+      { label: 'Projects', href: '/projects/' },
+      { label: 'Seminars & Conferences', href: '/blog/' },
       //{ label: 'repositories', href: '/repositories/' },
       { label: 'cv', href: '/cv/' },
       {
