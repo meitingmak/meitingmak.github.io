@@ -1,48 +1,200 @@
 ---
 import Page from '@layouts/Page.astro';
 
-const seminars = [
+type Event = {
+  title: string;
+  venue: string;
+  date: string;
+  url?: string;
+};
+
+const invitedSeminars: Event[] = [
   {
-    title: 'Your Seminar Presentation Title',
-    venue: 'University or Institution, City, Country',
-    date: 'June 2026',
+    title: 'How Do Photochemical Hazes Bias Our Observations?',
+    venue: 'Johns Hopkins University — Bromery Seminar, Maryland, USA',
+    date: 'April 2027',
+  },
+  {
+    title: 'Features Produced By Non-Earth-Like Biosphere: Informing Future Missions',
+    venue: 'Shanghai Astronomical Observatory — Departmental Seminar, Shanghai, China',
+    date: 'December 2026',
+  },
+  {
+    title: 'Flow-driven Limb Asymmetry of Haze Distribution',
+    venue: 'Max Planck Institute for Astronomy — ExoCoffee, Heidelberg, Germany',
+    date: 'September 2026',
+  },
+  {
+    title: 'Taking A Tour to Understand Photochemical Hazes in Exoplanets: Implications for Habitability, Chemistry, JWST Observations, and Future Flagship Missions',
+    venue: 'University of Hong Kong — Department of Physics Seminar, Hong Kong, China',
+    date: 'May 2026',
+  },
+  {
+    title: 'Taking A Tour to Understand Photochemical Hazes in Exoplanets: Implications for Habitability, Chemistry, JWST Observations, and Future Flagship Missions',
+    venue: 'Tsinghua University — Departmental Seminar, Beijing, China',
+    date: 'May 2026',
+  },
+  {
+    title: 'Hazes in Hot-Jupiters: Why Do We Care About Them and How Can We Observe Them?',
+    venue: 'The Open University — Departmental Seminar, Milton Keynes, UK',
+    date: 'February 2026',
+  },
+  {
+    title: 'Hazes in Hot-Jupiters: Why Do We Care About Them and How Can We Observe Them?',
+    venue: 'Peking University — Departmental Seminar, Beijing, China',
+    date: 'December 2025',
+  },
+  {
+    title: 'Simulating Hazy Exoplanets from Earth-like to Hot-Jupiter: Role of Haze in Habitability and Observabilities?',
+    venue: 'University of Oxford — SPI-MAX Seminar, Oxford, UK',
+    date: 'May 2025',
+  },
+  {
+    title: 'Simulating Hazy Exoplanets: From Earth-like to Hot-Jupiter',
+    venue: 'University of Bristol — Astrophysics Seminar, Bristol, UK',
+    date: 'February 2025',
+  },
+  {
+    title: 'Impact of Different Haze Types on the Atmosphere and Observations of a Hot-Jupiter WASP-39b using a 3D General Circulation Model',
+    venue: 'Tsung-Dao Lee Institute — TDLI Astronomy Seminar, Shanghai, China',
+    date: 'February 2025',
+  },
+  {
+    title: 'Simulating Hazy Exoplanets: From Earth-like to Hot-Jupiter',
+    venue: 'University College London — APEX Seminar, London, UK',
+    date: 'January 2025',
+  },
+  {
+    title: 'Simulating Hazy Exoplanets: From Earth-like to Hot-Jupiter',
+    venue: 'University of Vienna — Astrophysics Colloquium, Vienna, Austria',
+    date: 'October 2024',
   },
 ];
 
-const conferences = [
+const oralPresentations: Event[] = [
   {
-    title: 'Your Conference Presentation Title',
-    venue: 'Conference Name, City, Country',
+    title: 'Finding Archean Earth Analogues with Earth 2.0',
+    venue: 'Annual Science Meeting of the Earth 2.0 Space Mission, Kunming, China',
     date: 'July 2026',
   },
+  {
+    title: 'Impact of Photochemical Haze on Chemistry in Hot-Jupiters: Preparing for the Era of ELT and Ariel',
+    venue: 'National Astronomy Meeting 2026, Birmingham, UK',
+    date: 'July 2026',
+  },
+  {
+    title: 'Probing Hazy Archean Earth Analogues with the Habitable Worlds Observatory',
+    venue: 'Habitable Worlds Observatory UK Community Workshop 2026, London, UK',
+    date: 'June 2026',
+  },
+  {
+    title: 'Impact of Photochemical Haze on Chemistry in Hot-Jupiters: Key Implications for Ariel Interpretation',
+    venue: 'Ariel: Science, Mission and Community 2026, Didcot, UK',
+    date: 'March 2026',
+  },
+  {
+    title: '3D Simulation of Haze on Hot-Jupiters and Its Implication on Observations with Limb Asymmetry',
+    venue: 'UKEXOM 2025, Leeds, UK',
+    date: 'March 2025',
+  },
+  {
+    title: '3D Simulations of the Archean Earth and Tidally-locked Planet with Varying Photochemical Haze Profiles',
+    venue: 'UKEXOM 2023 — Highlight Talk, London, UK',
+    date: 'August 2023',
+  },
+  {
+    title: 'Hazy Archean in 3D',
+    venue: 'RMetS Early Career and Student Conference 2023, Reading, UK',
+    date: 'July 2023',
+  },
+];
+
+const posterPresentations: Event[] = [
+  {
+    title: 'Impact of Photochemical Haze on Chemistry in Hot-Jupiters: Key Implications for ELT Interpretations',
+    venue: 'HORS3S, Granada, Spain',
+    date: 'July 2026',
+  },
+  {
+    title: 'Limb Asymmetry as a Unique Diagnostic of Photochemical Haze in Hot-Jupiters: Key Implications for JWST Interpretations',
+    venue: 'Exoplanet VI, Porto, Portugal',
+    date: 'June 2026',
+  },
+  {
+    title: 'A New Framework in Predicting Limb Asymmetry Due to Photochemical Haze in Hot-Jupiters: Key Implications for JWST Planning',
+    venue: 'UKEXOM 2026, Bristol, UK',
+    date: 'April 2026',
+  },
+  {
+    title: 'Role of Haze in Determining Habitability in Exoplanets',
+    venue: 'Planets Day 2, Oxford, UK',
+    date: 'March 2026',
+  },
+  {
+    title: '3D Simulation of Haze on Hot-Jupiters and Its Implication on Observations with Limb Asymmetry',
+    venue: 'International Conference on Exoplanets and Planet Formation, Shanghai, China',
+    date: 'December 2025',
+  },
+  {
+    title: 'Understanding How Haze Impacts Habitability and Observability of Exoplanets',
+    venue: 'Croucher Symposium, Hong Kong, China',
+    date: 'December 2025',
+  },
+  {
+    title: '3D Simulations of Haze from Earth-like Exoplanets to Hot-Jupiters',
+    venue: 'Exoplanet V, Leiden, the Netherlands',
+    date: 'June 2024',
+  },
+  {
+    title: 'Hazy Archean in 3D',
+    venue: 'Goldschmidt 2023, Lyon, France',
+    date: 'July 2023',
+  },
+  {
+    title: 'Hazy Archean in 3D',
+    venue: 'EXOCLIMES VI, Exeter, UK',
+    date: 'June 2023',
+  },
+];
+
+const sections = [
+  { heading: 'Invited Seminars & Symposia', events: invitedSeminars },
+  { heading: 'Contributed Oral Presentations', events: oralPresentations },
+  { heading: 'Contributed Poster Presentations', events: posterPresentations },
 ];
 ---
 
-<Page title="Seminars & Conferences" description="Invited seminars and conference presentations">
+<Page title="Seminars & Conferences" description="Academic seminars, invited talks, and conference presentations">
   <div class="post">
     <header class="post-header">
       <h1 class="post-title">Seminars & Conferences</h1>
+      <p>Selected invited seminars, oral presentations, and conference posters.</p>
     </header>
     <article>
-      <h2>Invited Seminars</h2>
       {
-        seminars.map((event) => (
-          <div class="event">
-            <strong>{event.title}</strong>
-            <div>{event.venue}</div>
-            <div class="event-date">{event.date}</div>
-          </div>
-        ))
-      }
-
-      <h2>Conference Presentations</h2>
-      {
-        conferences.map((event) => (
-          <div class="event">
-            <strong>{event.title}</strong>
-            <div>{event.venue}</div>
-            <div class="event-date">{event.date}</div>
-          </div>
+        sections.map((section) => (
+          <section class="presentation-section">
+            <h2>{section.heading}</h2>
+            <div class="presentation-list">
+              {section.events.map((event) => (
+                <div class="presentation-entry">
+                  <div class="presentation-main">
+                    <strong>
+                      {event.url ? (
+                        <a href={event.url} target="_blank" rel="noopener noreferrer">
+                          {event.title}
+                        </a>
+                      ) : (
+                        event.title
+                      )}
+                    </strong>
+                    <div class="presentation-venue">{event.venue}</div>
+                  </div>
+                  <div class="presentation-date">{event.date}</div>
+                </div>
+              ))}
+            </div>
+          </section>
         ))
       }
     </article>
@@ -50,20 +202,56 @@ const conferences = [
 </Page>
 
 <style>
-  .event {
-    margin-bottom: 1.5rem;
-    padding-bottom: 1rem;
+  .presentation-section {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .presentation-section h2 {
+    margin-bottom: 1.25rem;
+  }
+
+  .presentation-entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1.5rem;
+    padding: 1rem 0;
     border-bottom: 1px solid var(--global-divider-color);
   }
 
-  .event-date {
-    color: var(--global-text-color-light);
-    font-size: 0.9rem;
-    margin-top: 0.3rem;
+  .presentation-main {
+    flex: 1;
+    min-width: 0;
   }
 
-  h2 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+  .presentation-main strong {
+    display: block;
+    line-height: 1.5;
+  }
+
+  .presentation-venue {
+    margin-top: 0.4rem;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+
+  .presentation-date {
+    flex-shrink: 0;
+    min-width: 110px;
+    text-align: right;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+
+  @media (max-width: 600px) {
+    .presentation-entry {
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+
+    .presentation-date {
+      text-align: left;
+    }
   }
 </style>
