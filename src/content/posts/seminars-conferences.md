@@ -15,7 +15,7 @@ Johns Hopkins University (Bromery Seminar), Maryland, US
 Shanghai Astronomical Observatory, Shanghai China
 *December 2026*
 
-**Flow-drive Limb Asymmetry of Haze Distribution (https://sites.google.com/view/exocoffee/home)**  
+**[Flow-drive Limb Asymmetry of Haze Distribution](https://sites.google.com/view/exocoffee/home)**  
 Max Planck Institute for Astronomy (ExoCoffee), Heidelberg, Germany
 *September 2026*
 
