@@ -120,7 +120,8 @@ export const site = {
       { label: 'About', href: '/' },
       { label: 'Publications', href: '/publications/' },
       { label: 'Projects', href: '/projects/' },
-      { label: 'Seminars & Conferences', href: '/blog/' },
+      { label: 'Seminars & Conferences', href: '/seminars-conferences/' },
+      // { label: 'Seminars & Conferences', href: '/blog/' },
       //{ label: 'repositories', href: '/repositories/' },
       { label: 'cv', href: '/cv/' },
       {
