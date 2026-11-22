@@ -121,17 +121,17 @@ export const site = {
       { label: 'Publications', href: '/publications/' },
       { label: 'Projects', href: '/projects/' },
       { label: 'Seminars & Conferences', href: '/seminars-conferences/' },
+      { label: 'cv', href: '/cv/' },
       // { label: 'Seminars & Conferences', href: '/blog/' },
       //{ label: 'repositories', href: '/repositories/' },
-      { label: 'cv', href: '/cv/' },
-      {
-        label: 'more',
-        children: [
-          { label: 'teaching', href: '/teaching/' },
-          { label: 'people', href: '/people/' },
-          { label: 'books', href: '/books/' },
-        ],
-      },
+      //{
+      //  label: 'more',
+      //  children: [
+      //    { label: 'teaching', href: '/teaching/' },
+      //    { label: 'people', href: '/people/' },
+      //    { label: 'books', href: '/books/' },
+      //  ],
+      // },
     ] as NavItem[],
   },
 
