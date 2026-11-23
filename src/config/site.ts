@@ -215,7 +215,7 @@ export const site = {
 
   latestPosts: {
     /** Show latest blog posts section on the about page. */
-    enabled: true,
+    enabled: false,
     scrollable: true,
     limit: 3 as number | undefined,
   },
