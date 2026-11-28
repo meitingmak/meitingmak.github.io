@@ -41,7 +41,7 @@ Using 3D GCM, the UM, I investigated how prescribed photochemical haze profiles 
 <iframe
   src="/assets/img/HAM_t_surf_day_night_REP.pdf#toolbar=0&navpanes=0"
   width="100%"
-  height="650"
+  height="605"
   style="border: none;"
   title="Surface temperature changes on TRAPPIST-1e">
 </iframe>
