@@ -38,18 +38,15 @@ Using 3D GCM, the UM, I investigated how prescribed photochemical haze profiles 
 ## Photochemical Hazes on TRAPPIST-1e
 
 
-
-## Photochemical Hazes on TRAPPIST-1e
-
 <div style="height: 20px;"></div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; width: 100%;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; width: 120%;">
 
   <div style="flex: 1 1 0; min-width: 200px;">
     <iframe
       src="/assets/img/HAM_t_surf_day_night_REP.pdf#toolbar=0&navpanes=0"
       width="100%"
-      height="400"
+      height="300"
       style="border: none;"
       title="Surface temperature changes on TRAPPIST-1e">
     </iframe>
@@ -63,9 +60,9 @@ Using 3D GCM, the UM, I investigated how prescribed photochemical haze profiles 
       photochemical haze profiles to investigate how atmospheric
       composition and haze properties affect surface temperatures
       and atmospheric circulation.
-    </p>
 
-    <p>
+      <div style="height: 20px;"></div>
+      
       Our simulations showed that thin haze layers can enhance
       surface warming on the dayside under certain conditions,
       while thicker haze layers generally lead to cooling.
