@@ -14,6 +14,8 @@ related_publications:
 
 Photochemical hazes are expected to be prevalent in planets, including the Early Earth. Their presence can impact the climate through absorbing and scattering away the incoming stellar radiation, changing the energy balance within the planetary atmosphere and hence the temperature structure and circulation.
 
+<div style="height: 20px;"></div>
+
 My research investigates the roles of photochemical haze in planetary climate and habitability using 3D General Circulation Model GCM, the Unified Model (UM), with a particular focus on the Archean Earth and potentially habitable rocky exoplanets.
 
 <div style="height: 80px;"></div>
