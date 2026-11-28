@@ -37,21 +37,28 @@ Using 3D GCM, the UM, I investigated how prescribed photochemical haze profiles 
 
 ## Photochemical Hazes on TRAPPIST-1e
 
-I extended this work to TRAPPIST-1e, a tidally-locked rocky planet orbiting an M-dwarf star.
 
 <div style="height: 20px;"></div>
 
-<iframe
-  src="/assets/img/HAM_t_surf_day_night_REP.pdf#toolbar=0&navpanes=0"
-  width="100%"
-  height="300"
-  style="border: none;"
-  title="Surface temperature changes on TRAPPIST-1e">
-</iframe>
+  <div style="flex: 1 1 45%; min-width: 220px;">
+    <iframe
+      src="/assets/img/HAM_t_surf_day_night_REP.pdf#toolbar=0&navpanes=0"
+      width="100%"
+      height="350"
+      style="border: none;"
+      title="Surface temperature changes on TRAPPIST-1e">
+    </iframe>
+  </div>
 
-Through three-dimensional simulations with varying CO2, CH4, and photochemical haze profiles, I investigated how atmospheric composition and haze properties influence surface temperatures and atmospheric circulation.
+  <div style="flex: 1 1 45%; min-width: 220px;">
+    <p>
+     I extended this work to TRAPPIST-1e, a tidally-locked rocky planet orbiting an M-dwarf star. Through 3D simulations with varying CO2, CH4, and photochemical haze profiles using the UM, I investigated how atmospheric composition and haze properties impact the surface temperatures and atmospheric circulation. Our simulations also showed that thin haze layers can enhance surface warming on the dayside of tidally-locked planet under certain conditions, while thicker haze layers generally lead to cooling.
+    </p>
+  </div>
 
-Our simulations showed that thin haze layers can enhance surface warming under certain conditions, while thicker haze layers generally lead to cooling.
+</div>
+
+
 
 
 ## Related Publications
