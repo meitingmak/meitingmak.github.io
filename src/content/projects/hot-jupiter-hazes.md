@@ -39,7 +39,7 @@ We also identified the distinct roles of atmospheric circulation in controlling 
 <iframe
   src="/assets/img/LAW_I_metric_limb_prediction_1e-5mbar_1000K_updated.pdf#toolbar=0&navpanes=0"
   width="100%"
-  height="300"
+  height="600"
   style="border: none;"
   title="Surface temperature changes on TRAPPIST-1e">
 </iframe>
